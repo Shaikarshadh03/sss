@@ -3,3 +3,5 @@ b=23
 c=a+b
 print(c)
 print('hieee')
+print('hloo')
+print('123')
